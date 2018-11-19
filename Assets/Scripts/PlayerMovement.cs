@@ -28,7 +28,6 @@ public class PlayerMovement : MonoBehaviour {
     }
 
     void FixedUpdate() {
-        Debug.Log(horizontalMove);
         Controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
         jump = false;
     }

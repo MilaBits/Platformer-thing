@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Milly\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Milly\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Platformer-thing.835910923.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Unity\Platformer thing\Platformer-thing" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="SineEditor.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Sirenix" t="Include">
+            <e p="Assemblies" t="Include">
+              <e p="link.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Attributes.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Editor.xml" t="Include" />
+              <e p="Sirenix.Serialization.Config.xml" t="Include" />
+              <e p="Sirenix.Utilities.Editor.xml" t="Include" />
+              <e p="Sirenix.Utilities.xml" t="Include" />
+            </e>
+            <e p="Demos" t="Include">
+              <e p="Attributes Overview" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="AssetListExamples.cs" t="Include" />
+                  <e p="AttributesOnClassesExample.cs" t="Include" />
+                  <e p="BoxGroupExamples.cs" t="Include" />
+                  <e p="ButtonExamples.cs" t="Include" />
+                  <e p="ButtonGroupExamples.cs" t="Include" />
+                  <e p="ButtonWithParametersExamples.cs" t="Include" />
+                  <e p="ColorPaletteExamples.cs" t="Include" />
+                  <e p="CombineGroupAttributeExample1.cs" t="Include" />
+                  <e p="CombineGroupAttributeExample2.cs" t="Include" />
+                  <e p="CombineGroupAttributeExample3.cs" t="Include" />
+                  <e p="CustomContextMenuExamples.cs" t="Include" />
+                  <e p="CustomValueDrawerExamples.cs" t="Include" />
+                  <e p="DebugSerializationExample.cs" t="Include" />
+                  <e p="DefaultDrawerChanges.cs" t="Include" />
+                  <e p="DelegateExamples.cs" t="Include" />
+                  <e p="DictionaryExamples.cs" t="Include" />
+                  <e p="DisableContextMenuExamples.cs" t="Include" />
+                  <e p="DisableInEditorAndPlayModeExamples.cs" t="Include" />
+                  <e p="DisplayAsStringExamples.cs" t="Include" />
+                  <e p="DrawWithUnityExamples.cs" t="Include" />
+                  <e p="EnableAndDisableIfExamples.cs" t="Include" />
+                  <e p="EnumPagingExamples.cs" t="Include" />
+                  <e p="EnumToggleButtonsExamples.cs" t="Include" />
+                  <e p="FilePathExamples.cs" t="Include" />
+                  <e p="FolderPathExamples.cs" t="Include" />
+                  <e p="FoldoutGroupAttributeExamples.cs" t="Include" />
+                  <e p="GUIColorExamples.cs" t="Include" />
+                  <e p="HideInEditorAndPlayModeExamples.cs" t="Include" />
+                  <e p="HideLabelExamples.cs" t="Include" />
+                  <e p="HideReferenceObjectPickerExamples.cs" t="Include" />
+                  <e p="HorizontalGroupAttributeExamples.cs" t="Include" />
+                  <e p="IncorrectUseOfOdinSerializeAttributeExamples1.cs" t="Include" />
+                  <e p="IncorrectUseOfOdinSerializeAttributeExamples2.cs" t="Include" />
+                  <e p="IndentExamples.cs" t="Include" />
+                  <e p="InfoBoxExamples.cs" t="Include" />
+                  <e p="InlineButtonExamples.cs" t="Include" />
+                  <e p="InlineEditorExamples.cs" t="Include" />
+                  <e p="InlinePropertyExamples.cs" t="Include" />
+                  <e p="LabelTextExamples.cs" t="Include" />
+                  <e p="ListExamples.cs" t="Include" />
+                  <e p="MinMaxSliderExamples.cs" t="Include" />
+                  <e p="MinMaxValueValueExamples.cs" t="Include" />
+                  <e p="MultiLinePropertyExamples.cs" t="Include" />
+                  <e p="NoBoilerplate.cs" t="Include" />
+                  <e p="OnInspectorGUIExamples.cs" t="Include" />
+                  <e p="OnValueChangedExamples.cs" t="Include" />
+                  <e p="PrefabRelatedAttributesExamples.cs" t="Include" />
+                  <e p="ProgressBarExamples.cs" t="Include" />
+                  <e p="PropertyOrderExamples.cs" t="Include" />
+                  <e p="PropertyTooltipExamples.cs" t="Include" />
+                  <e p="ReadOnlyExamples.cs" t="Include" />
+                  <e p="RequiredExamples.cs" t="Include" />
+                  <e p="ResponsiveButtonGroupExample.cs" t="Include" />
+                  <e p="SceneAndAssetsOnlyExamples.cs" t="Include" />
+                  <e p="SerializeAnything.cs" t="Include" />
+                  <e p="ShowAndHideIfExamples.cs" t="Include" />
+                  <e p="ShowDrawerChainExamples.cs" t="Include" />
+                  <e p="ShowInInspectorExamples.cs" t="Include" />
+                  <e p="ShowPropertiesInTheInspectorExamples.cs" t="Include" />
+                  <e p="StaticInspectorsExample.cs" t="Include" />
+                  <e p="SuffixLabelExamples.cs" t="Include" />
+                  <e p="TabExamples.cs" t="Include" />
+                  <e p="TableListExamples.cs" t="Include" />
+                  <e p="TableMatrixExamples.cs" t="Include" />
+                  <e p="TitleExamples.cs" t="Include" />
+                  <e p="TitleGroupExamples.cs" t="Include" />
+                  <e p="ToggleExamples.cs" t="Include" />
+                  <e p="ToggleLeftExamples.cs" t="Include" />
+                  <e p="TwoDimensionalArrayExamples.cs" t="Include" />
+                  <e p="TypeFilterExamples.cs" t="Include" />
+                  <e p="UnityPreviewFieldsExamples.cs" t="Include" />
+                  <e p="ValidateInputExamples.cs" t="Include" />
+                  <e p="ValueDropdownExamples.cs" t="Include" />
+                  <e p="VerticalGroupExamples.cs" t="Include" />
+                  <e p="WrapExamples.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Odin Inspector" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssemblyImportSettingsAutomation.cs" t="Include" />
+                  <e p="BuildAOTAutomation.cs" t="Include" />
+                  <e p="EnsureOdinInspectorDefine.cs" t="Include" />
+                  <e p="Vector2IntMinMaxAttributeDrawer.cs" t="Include" />
+                  <e p="VectorIntDrawers.cs" t="Include" />
+                </e>
+                <e p="VectorIntFormatters.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BottomCheck.cs" t="Include" />
+          <e p="CharacterController2D.cs" t="Include" />
+          <e p="Door.cs" t="Include" />
+          <e p="Ghosts" t="Include">
+            <e p="Ghost.cs" t="Include" />
+            <e p="NormalGhost.cs" t="Include" />
+            <e p="WaveGhost.cs" t="Include" />
+          </e>
+          <e p="Key.cs" t="Include" />
+          <e p="LevelButton.cs" t="Include" />
+          <e p="PhysicsObject.cs" t="Include" />
+          <e p="Platform.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="Sine.cs" t="Include" />
+          <e p="Spikes.cs" t="Include" />
+        </e>
+        <e p="Standard Assets" t="Include">
+          <e p="CrossPlatformInput" t="Include">
+            <e p="CrossPlatformInputGuidelines.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="AxisTouchButton.cs" t="Include" />
+              <e p="ButtonHandler.cs" t="Include" />
+              <e p="CrossPlatformInputManager.cs" t="Include" />
+              <e p="InputAxisScrollbar.cs" t="Include" />
+              <e p="Joystick.cs" t="Include" />
+              <e p="MobileControlRig.cs" t="Include" />
+              <e p="PlatformSpecific" t="Include">
+                <e p="MobileInput.cs" t="Include" />
+                <e p="StandaloneInput.cs" t="Include" />
+              </e>
+              <e p="TiltInput.cs" t="Include" />
+              <e p="TouchPad.cs" t="Include" />
+              <e p="VirtualInput.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="CrossPlatformInput" t="Include">
+              <e p="CrossPlatformInputInitialize.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Platformer-thing.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
